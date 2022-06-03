@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @emmaclarem
-- 👀 I’m an experinced performing arts professional retraining for a career in tech
+- 👀 I’m an experinced performing arts professional learning to code for an eventual career switch
 - 🌱 I’m currently learning Python, HTML, CSS, and JavaScript with Codecademy and Code First Girls
 - 💞️ I’m looking to collaborate on anything that I can learn from!
 - 📫 How to reach me: [LinkedIn](www.linkedin.com/in/emma-c-miller/), email emmaclarem@outlook.com, Instagram [@emmaclarem](https://instagram.com/emmaclarem)
