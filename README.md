@@ -1,5 +1,4 @@
-![github banner](https://user-images.githubusercontent.com/104512014/173440951-8574ebe5-e827-4a85-8d69-5edd82dfd502.jpg)
-
+![2022-06-23 14 44 54](https://user-images.githubusercontent.com/104512014/175315722-145ea398-0ede-4abb-8845-4cab89752b57.jpg)
 ## About Me ##
 
 - 👋 Hi, I’m Emma!
