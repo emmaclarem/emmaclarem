@@ -1,9 +1,11 @@
-![2022-06-23 14 44 54](https://user-images.githubusercontent.com/104512014/175315722-145ea398-0ede-4abb-8845-4cab89752b57.jpg)
+![2022-06-29 16 06 30](https://user-images.githubusercontent.com/104512014/176470859-62b7600c-4fa7-48b2-8238-04be68ae52cc.jpg)
+
+
 ## About Me ##
 
 - 👋 Hi, I’m Emma!
 - 👩‍💻 I’m an experinced performing arts professional learning to code for an eventual career switch
-- 💻 I’m currently studying online with Codecademy's Frontend Engineer Career Path
+- 💻 I’m currently studying online with Codecademy's Frontend Engineer Career Path and Code First Girls Web Dev Kickstarter
 - ✨ I'll be seeking London-based Tech Apprenticeships or Work/Training Opportunities for early 2023
 - 📧 How to reach me: [LinkedIn](www.linkedin.com/in/emma-c-miller/), email emmaclarem@outlook.com
 
