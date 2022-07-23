@@ -4,9 +4,10 @@
 ## About Me ##
 
 - 👋 Hi, I’m Emma!
-- 👩‍💻 I’m an experinced performing arts professional learning to code for an eventual career switch
+- 🎭 I’m a performing arts professional and creative with 9+ years experience as a dancer and small business owner
+- 👩‍💻 I discovered a passion for coding in early 2022, and I'm now working on pivoting into a career in tech
 - 💻 I’m currently studying online with Codecademy's Frontend Engineer Career Path and Code First Girls Web Dev Kickstarter
-- ✨ I'll be seeking London-based Tech Apprenticeships or Work/Training Opportunities for early 2023
+- ✨ I'm currently seeking London-based Tech Apprenticeships or Work/Training Opportunities for late 2022/early 2023
 - 📧 How to reach me: [LinkedIn](www.linkedin.com/in/emma-c-miller/), email emmaclarem@outlook.com
 
 ![github-divider-line](https://user-images.githubusercontent.com/104512014/173450695-e34b53b4-67aa-4cc7-a5b7-1aeca97fc90b.png)
