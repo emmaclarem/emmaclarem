@@ -7,7 +7,7 @@
 - 👩‍💻 I discovered a passion for coding in early 2022, and I'm now working on pivoting into a career in tech
 - 💻 I’m currently studying online with Codecademy's Frontend Engineer Career Path
 - ✨ I'm currently seeking London-based Software Engineering Apprenticeships for late 2022/early 2023
-- 🔗 Check out my [portfolio website here](https://emmaclarem.github.io/)
+- 🔗 Check out my [portfolio website here](https://emmaclarem.netlify.app/)
 - 📧 How to reach me: [LinkedIn](www.linkedin.com/in/emma-c-miller/), email emmaclarem@outlook.com
 
 ![github-divider-line](https://user-images.githubusercontent.com/104512014/173450695-e34b53b4-67aa-4cc7-a5b7-1aeca97fc90b.png)
