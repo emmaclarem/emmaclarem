@@ -6,7 +6,7 @@
 - 👋 Hi, I’m Emma!
 - 🎭 I’m a performing arts professional and creative with 9+ years experience as a dancer and small business owner
 - 👩‍💻 I discovered a passion for coding in early 2022, and I’m currently learning with Codecademy and Code First Girls
-- 💻 I'll be starting my tech career in October 2022 with an apprenticeship as a Cloud Solutions Engineer 
+- 💻 I've just begun an apprenticeship as a Cloud Solutions Architect (Engineer) 
 - 🔗 Check out my [portfolio website here](https://emmaclarem.netlify.app/)
 - 📧 How to reach me: [LinkedIn](www.linkedin.com/in/emma-c-miller/), email emmaclarem@outlook.com
 
