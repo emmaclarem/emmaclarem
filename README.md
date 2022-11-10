@@ -6,9 +6,9 @@
 - 👋 Hi, I’m Emma!
 - 🎭 I’m a performing arts professional and creative with 9+ years experience as a dancer and small business owner
 - 👩‍💻 I discovered a passion for coding in early 2022, and I’m currently learning with Codecademy and Code First Girls
-- 💻 I've just begun an apprenticeship as a Cloud Solutions Architect (Engineer) 
+- 💻 I've just begun an apprenticeship as a Cloud Solutions Architect, working with Microsoft Azure
 - 🔗 Check out my [portfolio website here](https://emmaclarem.netlify.app/)
-- 📧 How to reach me: [LinkedIn](www.linkedin.com/in/emma-c-miller/), email emmaclarem@outlook.com
+- 📧 How to reach me: [LinkedIn](www.linkedin.com/in/emma-c-miller/)
 
 ![github-divider-line](https://user-images.githubusercontent.com/104512014/173450695-e34b53b4-67aa-4cc7-a5b7-1aeca97fc90b.png)
 
@@ -21,9 +21,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" **alt="Python" width="30" height="30"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" **alt="Git" width="30" height="30"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" **alt="React" width="30" height="30"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" **alt="Redux" width="30" height="30"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" **alt="Figma" width="30" height="30"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VScode" **alt="VScode" width="30" height="30"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" title="Azure" **alt="Azure" width="30" height="30"/>
 </div>
 
 ![github-divider-line](https://user-images.githubusercontent.com/104512014/173450695-e34b53b4-67aa-4cc7-a5b7-1aeca97fc90b.png)
