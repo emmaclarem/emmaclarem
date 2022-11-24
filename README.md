@@ -5,7 +5,7 @@
 
 - 👋 Hi, I’m Emma!
 - 🎭 I’m a performing arts professional and creative with 9+ years experience as a dancer and small business owner
-- 👩‍💻 I discovered a passion for coding in early 2022, and I’m currently learning with Codecademy and Code First Girls
+- 👩‍💻 I discovered an interest in coding in early 2022, and I’ve been learning with Codecademy and Code First Girls
 - 💻 I've just begun an apprenticeship as a Cloud Solutions Architect, working with Microsoft Azure
 - 🔗 Check out my [portfolio website here](https://emmaclarem.netlify.app/)
 - 📧 How to reach me: [LinkedIn](www.linkedin.com/in/emma-c-miller/)
