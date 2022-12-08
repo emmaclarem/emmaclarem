@@ -4,11 +4,11 @@
 ## About Me ##
 
 - 👋 Hi, I’m Emma!
-- 🎭 I’m a performing arts professional and creative with 9+ years experience as a dancer and small business owner
-- 👩‍💻 I discovered an interest in coding in early 2022, and I’ve been learning with Codecademy and Code First Girls
-- 💻 I'm currently an apprentice Cloud Solution Architect, working with Microsoft Azure
+- 💻 I'm an apprentice Cloud Solution Architect working with Microsoft Azure
+- 🎭 I used to be a performing arts professional and creative, I have 9+ years experience working as a dancer and small business owner
+- 👩‍💻 I discovered an interest in coding in early 2022, and I’ve been learning with Codecademy and Code First Girls since then
 - 🔗 Check out my [portfolio website here](https://emmaclarem.netlify.app/)
-- 📧 How to reach me: [LinkedIn](www.linkedin.com/in/emma-c-miller/)
+- 📧 Reach me on [LinkedIn](www.linkedin.com/in/emma-c-miller/)
 
 <div>
   <img src="https://user-images.githubusercontent.com/104512014/206425794-1e7bfd5b-9682-444f-b075-1fc236c6d1cb.png" title="Microsoft Certified Azure Fundamentals" alt="HTML" width="100" height="100"/>&nbsp;
