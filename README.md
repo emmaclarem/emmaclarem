@@ -4,7 +4,7 @@
 ## About Me ##
 
 - 👋 Hi, I’m Emma!
-- 💻 I'm an apprentice Cloud Solution Architect working with Microsoft Azure
+- 💻 I'm an apprentice Cloud Solution Architect Engineer working with Microsoft Azure
 - 🎭 I used to be a performing arts professional and creative, I have 9+ years experience working as a dancer and small business owner
 - 👩‍💻 I discovered an interest in coding in early 2022, and I’ve been learning with Codecademy and Code First Girls since then
 - 🔗 Check out my [portfolio website here](https://emmaclarem.netlify.app/)
