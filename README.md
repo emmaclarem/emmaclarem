@@ -40,5 +40,5 @@
 ![github-divider-line](https://user-images.githubusercontent.com/104512014/173450695-e34b53b4-67aa-4cc7-a5b7-1aeca97fc90b.png)
 
 
-<img src="https://user-images.githubusercontent.com/104512014/188880139-57550f6e-3ccb-4b5f-a894-fbaad61e1462.png" width="180px" align="right">
+<!--- <img src="https://user-images.githubusercontent.com/104512014/188880139-57550f6e-3ccb-4b5f-a894-fbaad61e1462.png" width="180px" align="right"> --->
 
