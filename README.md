@@ -11,6 +11,7 @@
 - 📧 Reach me on [LinkedIn](www.linkedin.com/in/emma-c-miller/)
 
 <div>
+   <img src="https://user-images.githubusercontent.com/104512014/228850604-0da435b5-50e3-40a8-8c46-772e60f72f74.png" title="Microsoft Certified Azure Administrator Associate" alt="HTML" width="80" height="80"/>&nbsp;
   <img src="https://user-images.githubusercontent.com/104512014/206425794-1e7bfd5b-9682-444f-b075-1fc236c6d1cb.png" title="Microsoft Certified Azure Fundamentals" alt="HTML" width="80" height="80"/>&nbsp;
   <img src="https://user-images.githubusercontent.com/104512014/214265722-383b2918-8fc5-4f5c-a303-c453d4819e21.png" title="Microsoft Certified Security, Compliance, and Identity Fundamentals" alt="HTML" width="80" height="80"/>&nbsp;
   <img src="https://user-images.githubusercontent.com/104512014/206425600-94e4b2ed-31a8-4162-a9f5-e508bb3f4820.png" title="Accessibility in Action Badge" alt="HTML" width="80" height="80"/>&nbsp;
