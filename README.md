@@ -5,7 +5,7 @@
 
 - 👋 Hi, I’m Emma!
 - 💻 I'm an apprentice Cloud Solution Architect Engineer working with Microsoft Azure
-- 🎭 I used to be a performing arts professional and creative, I have 9+ years experience working as a dancer and small business owner
+- 🎭 I recently switched careers, previously I worked in the performing arts industry for 9+ years as a dancer and small business owner
 - 👩‍💻 I discovered an interest in coding in early 2022, and I’ve been learning with Codecademy and Code First Girls since then
 - 🔗 Check out my [portfolio website here](https://emmaclarem.netlify.app/)
 - 📧 Reach me on [LinkedIn](www.linkedin.com/in/emma-c-miller/)
@@ -25,6 +25,7 @@
 ## Languages & Tools I'm Learning ##
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" title="Azure" **alt="Azure" width="30" height="30"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/terraform/terraform-original.svg" title="Terraform" **alt="Terraform" width="30" height="30"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="30" height="30"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS3" alt="CSS" width="30" height="30"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="30" height="30"/>&nbsp;
