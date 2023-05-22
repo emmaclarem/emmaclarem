@@ -6,7 +6,7 @@
 - 👋 Hi, I’m Emma!
 - 💻 I'm an apprentice Cloud Solution Architect Engineer working with Microsoft Azure
 - 🎭 I recently switched careers, previously I worked in the performing arts industry for 9+ years as a dancer and small business owner
-- 👩‍💻 I discovered an interest in coding in early 2022, and I’ve been learning with Codecademy and Code First Girls since then
+- 👩‍💻 I'm currently working towards my Level 3 Digital Support Technician qualification, alongside Azure and CompTIA certifications
 - 🔗 Check out my [portfolio website here](https://emmaclarem.netlify.app/)
 - 📧 Reach me on [LinkedIn](www.linkedin.com/in/emma-c-miller/)
 
